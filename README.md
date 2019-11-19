@@ -4,6 +4,10 @@ Files for working with NeoPixels and Raspberry Pi
 
 ## Setup
 
+### Setup for CircuitPython
+
+[https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/installing-circuitpython-on-raspberry-pi](https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/installing-circuitpython-on-raspberry-pi)
+
 ### Install adafruit neopixel library
 
 `sudo pip3 install rpi_ws281x adafruit-circuitpython-neopixel`
